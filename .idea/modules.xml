@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Face_Image_Classification.iml" filepath="$PROJECT_DIR$/.idea/Face_Image_Classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Face_classification_recog.iml" filepath="$PROJECT_DIR$/.idea/Face_classification_recog.iml" />
     </modules>
   </component>
 </project>
