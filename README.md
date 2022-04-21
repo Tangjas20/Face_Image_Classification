@@ -7,9 +7,7 @@ each in a separate directory labelled 1a, 1b, … 1t and images are numbered con
 taken. 
 
 The files are all in PGM format, approximately 220 x 220 pixels with 256-bit grey-scale. 
-
 To simplify the implementation, the images had been cropped to focus the informative regions 
-
 on facial information.
 
 Each cropped image has a resolution of 112 x 92 pixels.
@@ -32,13 +30,10 @@ The storage structure of the file is as follows.
 
 This task requires programming to convert the data from images to vectors to organize datasets that can
 be used for training and validation.
-
 The number of pictures of each character is not exactly the same.
 
 It is necessary to divide the data samples for training and the data samples for testing and 
-
 verification according to a certain method and proportion.
 
 When testing, it is necessary to be able to apply various metrics flexibly to comprehensively test and
-
 evaluate each method and to be able to interpret the meaning of different evaluation results.
