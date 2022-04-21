@@ -1,5 +1,5 @@
 # Face_Image_Classification on UMIST dataset
-##Data:
+**Data:**
 The Sheffield (previously UMIST) Face Database consists of 564 images of 20 individuals (mixed
 race/gender/appearance). 
 Each individual is shown in a range of poses from profile to frontal views –
@@ -13,7 +13,7 @@ on facial information.
 Each cropped image has a resolution of 112 x 92 pixels.
 
 
-##Main Task:
+**Main Task:**
 
 • Represent each facial image by vectorising image pixels;
 
@@ -26,7 +26,7 @@ Each cropped image has a resolution of 112 x 92 pixels.
 • Verify if the reduced features help improve classification performance.
 
 
-##The storage structure of the file is as follows.
+**The storage structure of the file is as follows.**
 
 This task requires programming to convert the data from images to vectors to organize datasets that can
 be used for training and validation.
