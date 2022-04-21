@@ -13,10 +13,15 @@ Each cropped image has a resolution of 112 x 92 pixels.
 
 
 Main Task:
+
 • Represent each facial image by vectorising image pixels;
+
 • Classify facial images using logistic regression and non-linear SVM
+
 • Compare their performance;
+
 • Reduce feature dimensions using PCA and LDA, and compare Eigen-face and Fisher-face.
+
 • Verify if the reduced features help improve classification performance.
 
 
